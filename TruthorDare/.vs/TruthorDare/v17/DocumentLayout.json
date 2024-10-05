@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\musta\\Projects\\TruthOrDare\\TruthorDare\\",
+  "WorkspaceRootPath": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|c:\\users\\musta\\projects\\truthordare\\truthordare\\assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|c:\\users\\fcaka\\desktop\\github\\truthordare\\truthordare\\assets\\dark ui\\ui_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|solutionrelative:assets\\dark ui\\ui_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|c:\\users\\fcaka\\desktop\\github\\truthordare\\truthordare\\assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameState.cs",
-              "DocumentMoniker": "C:\\Users\\musta\\Projects\\TruthOrDare\\TruthorDare\\Assets\\Scripts\\GameState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameState.cs",
-              "ToolTip": "C:\\Users\\musta\\Projects\\TruthOrDare\\TruthorDare\\Assets\\Scripts\\GameState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameState.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Title": "UI_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\Assets\\Dark UI\\UI_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Dark UI\\UI_Manager.cs",
+              "ToolTip": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\Assets\\Dark UI\\UI_Manager.cs",
+              "RelativeToolTip": "Assets\\Dark UI\\UI_Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T21:48:11.6Z",
+              "WhenOpened": "2024-10-05T22:05:48.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\Assets\\Scripts\\GameState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameState.cs",
+              "ToolTip": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\Assets\\Scripts\\GameState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:04:17.817Z",
               "EditorCaption": ""
             }
           ]
