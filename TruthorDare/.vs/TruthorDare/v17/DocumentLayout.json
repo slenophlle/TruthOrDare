@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|c:\\users\\fcaka\\desktop\\github\\truthordare\\truthordare\\assets\\scripts\\ui_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\assets\\scripts\\ui_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\assets\\scripts\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|c:\\users\\fcaka\\desktop\\github\\truthordare\\truthordare\\assets\\scripts\\questionsetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\questionsetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\assets\\scripts\\useradder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\useradder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\assets\\scripts\\useraddprefabelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\useraddprefabelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\assets\\scripts\\userremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF1C73A-A8A1-3791-FA6E-4360A4A901C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\userremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionSetter.cs",
+              "DocumentMoniker": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\Assets\\Scripts\\QuestionSetter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuestionSetter.cs",
+              "ToolTip": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\Assets\\Scripts\\QuestionSetter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuestionSetter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:55:13.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAdder.cs",
+              "DocumentMoniker": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\Assets\\Scripts\\UserAdder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UserAdder.cs",
+              "ToolTip": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\Assets\\Scripts\\UserAdder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UserAdder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:54:21.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserAddPrefabElement.cs",
+              "DocumentMoniker": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\Assets\\Scripts\\UserAddPrefabElement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UserAddPrefabElement.cs",
+              "ToolTip": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\Assets\\Scripts\\UserAddPrefabElement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UserAddPrefabElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:54:11.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRemover.cs",
+              "DocumentMoniker": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\Assets\\Scripts\\UserRemover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UserRemover.cs",
+              "ToolTip": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\Assets\\Scripts\\UserRemover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UserRemover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:53:49.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ButtonManager.cs",
+              "DocumentMoniker": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\Assets\\Scripts\\ButtonManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonManager.cs",
+              "ToolTip": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\Assets\\Scripts\\ButtonManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:52:31.194Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +106,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI_Manager.cs",
               "ToolTip": "C:\\Users\\fcaka\\Desktop\\Github\\TruthOrDare\\TruthorDare\\Assets\\Scripts\\UI_Manager.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI_Manager.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAiwHMAAAAAAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAkwFYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T00:55:57.228Z",
               "EditorCaption": ""

@@ -12,7 +12,7 @@ public class UI_Manager : MonoBehaviour
     public GameObject MainMenu;
     public GameObject Settings;
     public GameObject Shop;
-    public GameObject Categorys;
+    public GameObject Categories;  // Corrected the plural form
     public GameObject PlayersInfo;
 
     [Header("Input Fields")]
@@ -31,17 +31,17 @@ public class UI_Manager : MonoBehaviour
     public void TogglePlayerInfos()
     {
         TogglePanel(PlayersInfo);
-        Categorys.SetActive(!PlayersInfo.activeSelf);
+        Categories.SetActive(!PlayersInfo.activeSelf);
     }
 
     public void SavePlayerInfos()
     {
         string playerName = playerNameInputTMP.text;
-        Debug.Log("Yeni oyuncu: " + playerName);
+        Debug.Log("New player: " + playerName);
 
         if (!string.IsNullOrEmpty(playerName))
         {
-            playerInfoTextTMP.text += "\nOyuncu Adý: " + playerName;
+            playerInfoTextTMP.text += "\nPlayer Name: " + playerName;
             playerNameInputTMP.text = string.Empty;
             playerNameInputTMP.ActivateInputField();
             UpdateContentSize();
@@ -53,8 +53,8 @@ public class UI_Manager : MonoBehaviour
 
     public void ToggleCategoryScreen()
     {
-        TogglePanel(Categorys);
-        MainMenu.SetActive(!Categorys.activeSelf);
+        TogglePanel(Categories);
+        MainMenu.SetActive(!Categories.activeSelf);
     }
 
     public void ToggleSettings()
@@ -80,8 +80,13 @@ public class UI_Manager : MonoBehaviour
         MainMenu.SetActive(false);
         Settings.SetActive(false);
         Shop.SetActive(false);
-        Categorys.SetActive(false);
+        Categories.SetActive(false);
         PlayersInfo.SetActive(false);
+    }
+    public void BackToMain()
+    {
+        TogglePanel(PlayersInfo);
+        Categories.SetActive(!PlayersInfo.activeSelf);
     }
 
     private void UpdateContentSize()
@@ -99,9 +104,9 @@ public class UI_Manager : MonoBehaviour
         else
         {
             // Display warning message
-            Debug.Log("En az 2 oyuncu girmelisiniz!");
+            Debug.Log("You need to enter at least 2 players!");
             // Optionally, you could show a UI warning message here
-            ShowWarningMessage("En az 2 oyuncu girmelisiniz!");
+            ShowWarningMessage("You need to enter at least 2 players!");
         }
     }
 

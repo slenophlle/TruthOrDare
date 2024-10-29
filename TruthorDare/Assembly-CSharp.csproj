@@ -61,9 +61,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\UI pack\Scripts\FillValueNumber.cs" />
+    <Compile Include="Assets\Scripts\UserAddPrefabElement.cs" />
+    <Compile Include="Assets\Scripts\UserRemover.cs" />
+    <Compile Include="Assets\Scripts\GameOrderController.cs" />
+    <Compile Include="Assets\Scripts\GameInfo.cs" />
     <Compile Include="Assets\Scripts\ButtonManager.cs" />
+    <Compile Include="Assets\Scripts\QuestionSetter.cs" />
+    <Compile Include="Assets\Scripts\GameStateConfigrator.cs" />
+    <Compile Include="Assets\Scripts\Question.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\UserAdder.cs" />
     <Compile Include="Assets\Scripts\UI_Manager.cs" />
+    <Compile Include="Assets\Scripts\GameState.cs" />
+    <Compile Include="Assets\Scripts\QuestionDeterminer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
